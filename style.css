@@ -236,7 +236,7 @@ body {
 .hero .gambar {
     width: 600px;
     height: 500px;
-    background-image: url("https://raw.githubusercontent.com/kanglerian/armorblox/master/img/side.webp");
+    background-image: url('../img/side.webp');
     background-size: cover;
     box-sizing: border-box;
     background-size: 750px;
